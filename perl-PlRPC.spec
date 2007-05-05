@@ -1,6 +1,6 @@
 %define module 	PlRPC
 %define version 0.2018
-%define release 1mdk
+%define release %mkrel 2
 
 Summary:	%{module} perl module
 Name: 		perl-%{module}
