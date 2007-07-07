@@ -11,7 +11,7 @@ Group:		Development/Perl
 URL:		ftp://ftp.funet.fi/pub/languages/perl/CPAN/authors/id/JWIED
 Source0:	%{module}-%{version}.tar.bz2
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-buildroot
-BuildRequires:	perl-Net-Daemon perl-Storable perl-devel
+BuildRequires:	perl-Net-Daemon perl-Storable perl-devel perl-doc
 Buildarch:	noarch
 
 %description
