@@ -18,7 +18,7 @@ Buildarch:	noarch
 %{module} - module for perl
 
 %prep
-%setup -q -n %{module}-%{version}
+%setup -q -n %{module}
 
 %build
 
