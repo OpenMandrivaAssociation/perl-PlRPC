@@ -1,6 +1,6 @@
 %define module 	PlRPC
 %define version 0.2020
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary:	%{module} perl module
 Name: 		perl-%{module}
