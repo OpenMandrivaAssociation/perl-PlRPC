@@ -3,7 +3,7 @@
 Summary:	%{module} perl module
 Name:		perl-%{module}
 Version:	0.2020
-Release:	8
+Release:	9
 License:	GPLv2 or Artistic
 Group:		Development/Perl
 Url:		ftp://ftp.funet.fi/pub/languages/perl/CPAN/authors/id/JWIED
