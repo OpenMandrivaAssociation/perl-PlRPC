@@ -12,7 +12,6 @@ Buildarch:	noarch
 BuildRequires:	perl-Net-Daemon
 BuildRequires:	perl-Storable
 BuildRequires:	perl-devel
-BuildRequires:	perl-doc
 
 %description
 %{module} - module for perl
